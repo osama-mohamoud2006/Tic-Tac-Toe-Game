@@ -181,3 +181,7 @@ It improves:
 4. Play and use Restart for new rounds.
 
 ---
+
+> [!NOTE]
+> **Design credit:** The **Refactored Version UI design is not my original work**.  
+> I used the instructor’s Windows Forms design/layout, and my contribution was **refactoring the code implementation only**.
